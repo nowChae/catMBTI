@@ -1,0 +1,87 @@
+export const QuestionData = [
+  {
+    id: 1,
+    title : "새로운 고양이를 데려 왔다! 나의 반응은?",
+    answera : "작고 너무 귀여워. 이름은 뭐로 하지? 자꾸만 고양이에게 말을 걸고 싶다.",
+    answerb : "고양이도 적응할 시간이 필요해. 고양이에게 혼자만의 시간을 준다.",
+    type : "EI",
+  },
+  {
+    id: 2,
+    title : "문제 2",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "EI",
+  },
+  {
+    id: 3,
+    title : "문제 3",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "EI",
+  },
+  {
+    id: 4,
+    title : "문제 4",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "SN",
+  },
+  {
+    id: 5,
+    title : "문제 5",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "SN",
+  },
+  {
+    id: 6,
+    title : "문제 6",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "SN",
+  },
+  {
+    id: 7,
+    title : "문제 7",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "TF",
+  },
+  {
+    id: 8,
+    title : "문제 8",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "TF",
+  },
+  {
+    id: 9,
+    title : "문제 9",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "TF",
+  },
+  {
+    id: 10,
+    title : "문제 10",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "JP",
+  },
+  {
+    id: 11,
+    title : "문제 11",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "JP",
+  },
+  {
+    id: 12,
+    title : "문제 12",
+    answera : "답변 1",
+    answerb : "답변 2",
+    type : "JP",
+  }
+
+]
